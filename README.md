@@ -32,7 +32,7 @@
 4. Contact of the delivery person
 5. Cancellation of order and other option
 
-**Feedback features: Taking feedback for a better performance
+**Feedback features: Taking feedback for a better performance**
 
 1. Rating of services on multiple scales
 2. Rating of delivery boy
